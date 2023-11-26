@@ -1,3 +1,7 @@
+![Funny cat]([http://example.com/funny-cat.gif](https://gomycode.com/wp-content/uploads/2023/10/2.gif))
+
+
+
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
 <h3 align="center">Hi, I'm Bilal BOUDJEMA, Computer Science Student | Data Analyst📊 From France</h3>
 
