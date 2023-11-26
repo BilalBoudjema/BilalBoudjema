@@ -1,4 +1,4 @@
-![Funny cat]([http://example.com/funny-cat.gif](https://gomycode.com/wp-content/uploads/2023/10/2.gif))
+![Funny cat](https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif)
 
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
 <h3 align="center">A passionate Data Analyst 📊 From France</h3>
