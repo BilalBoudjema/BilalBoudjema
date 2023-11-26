@@ -1,4 +1,8 @@
-![Funny cat](https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" width="WIDTH" height="HEIGHT" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
 <h3 align="center">A passionate Data Analyst 📊 From France</h3>
