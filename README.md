@@ -1,11 +1,9 @@
 ![Funny cat]([http://example.com/funny-cat.gif](https://gomycode.com/wp-content/uploads/2023/10/2.gif))
 
-
-
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
-<h3 align="center">Hi, I'm Bilal BOUDJEMA, Computer Science Student | Data Analyst📊 From France</h3>
+<h3 align="center">A passionate Data Analyst 📊 From France</h3>
 
-- 💬 Ask me about **Python, SQL, Tableau, Excel**
+- 💬 Ask me about **Ask me about anything, I am happy to help**
 
 - 📫 How to reach me **bilal.boudjema20@gmail.com**
 
