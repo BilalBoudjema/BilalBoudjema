@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" width="500px" height="500px" />
+    <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" width="1500px" height="500px" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
