@@ -13,6 +13,9 @@
 <a href="https://api.whatsapp.com/send?phone=33752051455" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp" height="30" width="40" />
 </a>
+<a href="https://api.whatsapp.com/send?phone=33752051455" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp" height="30" width="40" />
+</a>
 
 </p>
 
