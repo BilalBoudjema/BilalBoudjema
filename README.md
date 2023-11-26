@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
-<h3 align="center">Hi, I'm Bilal BOUDJEMA, Computer Science Student | Data Analyst🚀 From France</h3>
+<h3 align="center">Hi, I'm Bilal BOUDJEMA, Computer Science Student | Data Analyst📊 From France</h3>
 
 - 💬 Ask me about **Python, SQL, Tableau, Excel**
 
