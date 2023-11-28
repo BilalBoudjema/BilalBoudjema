@@ -4,11 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
-<h3 align="center">M2 Exploration Informatique des Données et Décisionnel (EID2) @Sorbonne Paris Nord University</h1>
 <h3 align="center">M2 Computer Science Exploration of Data and Decision Making (EID2) @Sorbonne Paris Nord University</h1>
-
-
-
 <h3 align="center">A passionate Data Analyst 📊 from Paris, France</h3>
 
 - 💬 Feel free to reach out for any queries or discussions about data analysis – I'm always eager to help and share knowledge!
