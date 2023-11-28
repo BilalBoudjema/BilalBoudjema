@@ -4,8 +4,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Bilal BOUDJEMA</h1>
-<h1 align="center">M2 Exploration Informatique des Données et Décisionnel (EID2) @Sorbonne Paris Nord University</h1>
-<h1 align="center">M2 Computer Science Exploration of Data and Decision Making (EID2) @Sorbonne Paris Nord University</h1>
+<h3 align="center">M2 Exploration Informatique des Données et Décisionnel (EID2) @Sorbonne Paris Nord University</h1>
+<h3 align="center">M2 Computer Science Exploration of Data and Decision Making (EID2) @Sorbonne Paris Nord University</h1>
 
 
 
