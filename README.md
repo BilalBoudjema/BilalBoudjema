@@ -8,11 +8,11 @@
 <h3 align="center">A passionate BI / Data Analyst 📊 from Paris, France</h3>
 
 - 💬 Feel free to reach out for any queries or discussions about data analysis – I'm always eager to help and share knowledge!
-- 📫 Want to connect? Here's how you can reach me: **bilal.boudjema20@gmail.com**
+- 📫 Want to connect? Here's how you can reach me: **pro.bilal.boudjema@gmail.com**
 
 
  ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bilal.boudjema20@gmail.com)](mailto:bilal.boudjema20@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bilal.boudjema20@gmail.com)](mailto:pro.bilal.boudjema@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/bilalboudjema?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=33752051455)
